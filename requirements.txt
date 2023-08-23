@@ -1,7 +1,7 @@
 certifi>=2023.07.22
 chardet==3.0.4
-django == 2.0.10
-django-filter==1.1.0
+django == 2.2.25
+django-filter==2.4.0
 djangorestframework==3.9.1
 idna==2.6
 Markdown==2.6.11
